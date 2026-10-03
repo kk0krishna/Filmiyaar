@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>🎬 FilmiYaar</h1>
+  <img src="https://filmiyaar.web.app/filmiy-logo.svg" alt="FilmiYaar Logo" width="150" />
+  <h1>FilmiYaar</h1>
   <p><strong>Spotify Discover Weekly, but for movies — and actually personalized.</strong></p>
+  <br/>
+  <img src="https://filmiyaar.web.app/mockups/og-image.jpg" alt="FilmiYaar Banner" width="800" />
 </div>
 
 ---
@@ -20,20 +23,39 @@ By analyzing implicit behavioral feedback (trailer clicks, saving, loving, skipp
 
 ---
 
+## 📸 App Showcase
+
+<div align="center">
+  <img src="https://filmiyaar.web.app/mockups/find-movies.jpg" alt="Find Movies" width="45%" />
+  <img src="https://filmiyaar.web.app/mockups/best-engine.jpg" alt="Recommendation Engine" width="45%" />
+</div>
+
+<br/>
+
+### 📱 Inside the App
+
+<div align="center">
+  <img src="https://filmiyaar.web.app/Screenshots/Screen%20Shot%202026-09-29%20at%2023.39.54.png" alt="App Interface 1" width="30%" />
+  <img src="https://filmiyaar.web.app/Screenshots/Screen%20Shot%202026-09-30%20at%2000.15.55.png" alt="App Interface 2" width="30%" />
+  <img src="https://filmiyaar.web.app/Screenshots/Screen%20Shot%202026-09-30%20at%2000.20.58.png" alt="App Interface 3" width="30%" />
+</div>
+
+---
+
 ## 🔗 Live Site & Resources
 
 Experience the engine yourself:
 
-- 🚀 **[Launch FilmiYaar (Main App)](https://filmiyaar-2f954.web.app/)** *(Replace with your actual deployed URL)*
-- 📖 **[Read the FAQs](/faq)**
+- 🚀 **[Launch FilmiYaar (Main App)](https://filmiyaar.web.app/)**
+- 📖 **[Read the FAQs](https://filmiyaar.web.app/faq)**
 
 ### Deep Dives & Philosophy
 Dive into the engineering and behavioral psychology behind the platform:
-- 🧠 **[The Psychology of Scrolling: Why we built a Swipe UI](/articles/psychology-of-scrolling)**
-- ⚙️ **[Building the Best Movie Recommendation Engine](/articles/best-movie-recommendation-engine)**
-- 🍿 **[How to Actually Find Good Movies](/articles/how-to-find-good-movies)**
+- 🧠 **[The Psychology of Scrolling: Why we built a Swipe UI](https://filmiyaar.web.app/articles/psychology-of-scrolling)**
+- ⚙️ **[Building the Best Movie Recommendation Engine](https://filmiyaar.web.app/articles/best-movie-recommendation-engine)**
+- 🍿 **[How to Actually Find Good Movies](https://filmiyaar.web.app/articles/how-to-find-good-movies)**
 
-*Legal & Policies:* [Terms of Service](/terms) • [Privacy Policy](/privacy) • [Disclaimer](/disclaimer)
+*Legal & Policies:* [Terms of Service](https://filmiyaar.web.app/terms) • [Privacy Policy](https://filmiyaar.web.app/privacy) • [Disclaimer](https://filmiyaar.web.app/disclaimer)
 
 ---
 

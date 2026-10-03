@@ -1,3 +1,9 @@
 *
 !README.md
 !.gitignore
+!public/
+!public/filmiy-logo.svg
+!public/mockups/
+!public/mockups/**
+!public/Screenshots/
+!public/Screenshots/**
